@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">petquestions</string>
+    <string name="lontra">Lontra</string>
+    <string name="lontra_text">A lontra é um animal que apresenta corpo alongado e fino que pode apresentar até 1,5 metros de comprimento.
+        Sua cabeça é alongada e chata, suas pernas são curtas e suas orelhas pequenas e arredondadas.
+        A pelagem da lontra varia do marrom claro até o marrom escuro, sendo seu pelo curto e denso.
+        Nas patas desses animais, observa-se a presença de membranas interdigitais, que são essenciais para a boa natação, assim como a presença de uma cauda resistente.
+        A cauda desse animal também se destaca pelo seu tamanho, podendo chegar a um terço do comprimento de seu corpo. Esse animal pode pesar em média 15 kg.
+        A lontra é um animal semiaquático que se destaca por ter hábito noturno ou crepuscular e comportamento esquivo.
+        São encontradas geralmente sozinhas, porém pequenos grupos formados pela fêmea e seus filhotes podem ser observados.</string>
+    <string name="proximo">Próximo</string>
+    <string name="aranha">Aranha</string>
+    <string name="spider_text">De todas as espécies de aranhas já descobertas no mundo — ou seja, cerca de 46 mil espécies! —, apenas uma é herbívora;
+        Sabia que 95% das aranhas que encontramos em nossas casas jamais saíram ao mundo exterior?
+        Não pense que se jogar em um rio ou no mar livraria você das aranhas! Algumas espécies são capazes de caminhar sobre líquidos, nadar e até de respirar debaixo d’água;
+        As viúvas negras são famosas por devorar os machos depois de se acasalarem com eles; Aliás, ainda sobre as viúvas negras, seu veneno é 15 vezes mais potente do que o de uma cascavel;
+        As aranhas praticam a reciclagem! Elas comem as próprias teias para recuperar parte da proteína utilizada para produzi-las;
+        Falando nisso, comparando grama a grama, as teias de aranha são cinco vezes mais fortes do que o aço;
+        Assim como as lagostas e os caracóis, as aranhas têm “sangue azul” — e isso se deve ao alto teor de cobre no organismo desses bichinhos;</string>
+    <string name="questionario">Questionário</string>
+    <string name="responder">Responder</string>
+</resources>
